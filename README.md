@@ -19,4 +19,5 @@ Bài tập lớn nhóm 29- Các hệ thống dựa trên tri thức- Học việ
     - Kiến thức lập trình: javascript, html
     - Kiến thức về hệ thống dựa trên luật: Rule base reasioning,...
  BÁO CÁO CHI TIẾT: https://drive.google.com/file/d/1s16uNlxgNd7gDCQef7ktrXm71Zn9wCHY/view?usp=sharing
+ 
 Nhóm tác giả: Nguyễn Đình Long, Nguyễn Văn Minh, Nguyễn Tiến Dũng
