@@ -1,0 +1,27 @@
+
+.background{
+    background-image: url(../image/rm373batch4-12.jpg);
+    position: relative;
+    background-size: cover;
+}
+
+
+h2{
+    color: white;
+}
+
+hr{
+    color: aliceblue;
+}
+
+.company-info{
+    color: aliceblue;
+}
+
+.decision-container{
+    color:aliceblue;
+}
+
+footer{
+    color: aliceblue;
+}
